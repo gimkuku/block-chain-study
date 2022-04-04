@@ -20,7 +20,7 @@
 5. 이벤트를 탐지한 브릿지 서비스는 Chain B에 있는 컨트랙트에서 해당 유저에게 WETH와 같이 wrapped 된 토큰을 mint 시키는 트랜잭션을 발생
 6. 그 결과 유저가 보낸 이더리움은 이더리움 내부의 컨트랙트에 묶이게 되고 유저는 다른 체인에서 동일한 양의 Wrapped 된 이더리움을 받게 됨
 
-![Untitled](Wormhole%208ecfd/Untitled.png)
+![Untitled](https://luniverse.io/wp-content/uploads/2021/11/2-1024x473.png)
 
 ### Wormhole?
 
